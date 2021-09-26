@@ -1,2 +1,2 @@
-# reactjs_teste
+# Primeiro projeto com ReactJS
 Primeiro projeto com ReactJS
