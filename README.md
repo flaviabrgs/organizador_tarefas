@@ -1,6 +1,6 @@
 <h1> Primeiro projeto com ReactJS </h1>
 
-<p align="center">Aplicação para um organizador de tarefa com roteamento.</p><br>
+<p align="center">Aplicação para um organizador de tarefas com roteamento.</p><br>
 
 <p align="center"><img src="https://i.ibb.co/xHD0rBN/localhost-3000.png"></p>
 
