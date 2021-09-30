@@ -1,4 +1,4 @@
-<p align="center"><h1> Primeiro projeto com ReactJS </h1></p>
+h1> Primeiro projeto com ReactJS </h1>
 
 <p align="center">Aplicação para um organizador de tarefas com roteamento.</p><br>
 
